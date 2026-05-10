@@ -974,7 +974,7 @@ Contributing to your own code files is welcome. However, we do not accept incomp
 | ---------------------------------- | -----------------| ---------- |
 | [3380](../codes/climate/3380.json) | DualSplit | Broadlink  |
 
-#### Eurotools
+### Eurotools
 
 | Code                               | Supported Models | Controller |
 | ---------------------------------- | -----------------| ---------- |
