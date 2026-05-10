@@ -973,3 +973,9 @@ Contributing to your own code files is welcome. However, we do not accept incomp
 | Code                               | Supported Models | Controller |
 | ---------------------------------- | -----------------| ---------- |
 | [3380](../codes/climate/3380.json) | DualSplit | Broadlink  |
+
+#### Eurotools
+
+| Code                               | Supported Models | Controller |
+| ---------------------------------- | -----------------| ---------- |
+| [9035](../codes/climate/9035.json) | KF-25 GW/XC<br>KF-25GW/XC<br>Eurotool KF-25 GW/XC<br>Eurotools KF-25 GW/XC | Broadlink |
